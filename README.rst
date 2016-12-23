@@ -6,6 +6,10 @@ Bioinformatics ToolKit for Python 3
 .. image:: https://img.shields.io/pypi/v/bitkPy.svg
         :target: https://pypi.python.org/pypi/bitkPy
 
+.. image:: https://coveralls.io/repos/github/biowonks/bitkPy/badge.svg?branch=master
+        :target: https://coveralls.io/github/biowonks/bitkPy?branch=master
+
+
 .. image:: https://img.shields.io/travis/daviortega/bitkPy.svg
         :target: https://travis-ci.org/daviortega/bitkPy
 
