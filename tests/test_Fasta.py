@@ -7,7 +7,6 @@ test_bitkPy
 Tests for `bitkPy` module.
 """
 
-import pytest
 import os
 
 from bitkPy.Fasta import Fasta
